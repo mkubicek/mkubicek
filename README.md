@@ -10,3 +10,9 @@
 - [swiss-vehicle-stats](https://github.com/mkubicek/swiss-vehicle-stats) — analytics dashboard for Swiss vehicle registrations
 
 **📍 Zürich, Switzerland**
+
+---
+
+*Sneak peek from [swiss-vehicle-stats](https://github.com/mkubicek/swiss-vehicle-stats):*
+
+[![EV wave across Swiss cantons](https://raw.githubusercontent.com/mkubicek/swiss-vehicle-stats/main/charts/ev_wave.gif)](https://github.com/mkubicek/swiss-vehicle-stats)
