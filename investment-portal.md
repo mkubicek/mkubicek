@@ -45,7 +45,11 @@ In Microsoft’s history below, revenue repeatedly came in above the **top** of 
 
 ## How do I challenge a number?
 
-Select a figure such as **Forward P/E** and ask which earnings period it uses. The report carries the selected element, page and chart settings, so the person answering can see exactly what prompted the question. For a visual issue, the reader can mark up a screenshot and follow the reply in **Your reports**.
+Click the **bug button in the top-right corner** to turn on the portal’s built-in reporting tool. You can then select any visible element on the page. Here the button is active and **Forward P/E** is outlined in amber, ready to select.
+
+![Coherent’s company page in selection mode. The bug button is active in the header, a prompt asks what the report is about, and Forward P/E is highlighted.](assets/investment-portal/bug-button-selection.png)
+
+Click the highlighted element and the report opens with its label already attached. Choose **Question** to ask which earnings period the multiple uses, or **Visual / technical** to flag overlapping chart labels. The report includes the page and chart settings. You can mark up an optional screenshot and follow the reply in **Your reports**.
 
 | Flagging overlapping chart labels | Asking which earnings period a multiple uses |
 | --- | --- |
