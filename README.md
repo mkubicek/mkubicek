@@ -1,15 +1,35 @@
 ### Hi, I'm Milan 👋
 
-**What I'm into:** Mostly Python. Some LLM plumbing where it helps. Small tools for problems I actually run into. Investment research on the side. Lately, a MagicMirror² that's calm enough to live with.
+- Background in software engineering and developer advocacy.
+- Worked on public-sector systems, including professional licensing and the EU Digital COVID Certificate.
+- More recently, cloud architecture and data platforms.
+- Currently building up an AI competence centre and working on practical applications in aviation.
+
+**Questions I'm working on**
+
+- [How will generative AI shape aviation?](https://youtu.be/D5HByYY5nUQ?si=fB8hJIS4FwJ55HXe)
+- [How can we build investment models where every number has a source and every assumption has provenance?](investment-portal.md)
+
+**Questions I keep coming back to**
+
+- [How can I keep a local X archive using only what my browser already receives?](https://github.com/mkubicek/xTap)
+- [How can I turn Confluence spaces into portable, versioned Markdown?](https://github.com/mkubicek/conex)
+- [What do Swiss car registrations reveal about the shift to electric vehicles?](https://github.com/mkubicek/swiss-vehicle-stats)
+- [How are India’s newer airports growing alongside established hubs?](https://github.com/mkubicek/india-aviation-stats)
+- [How can we learn more from family genome data while keeping the analysis local?](https://github.com/mkubicek/family-genome-protocol)
+- [How can Swiss legal texts become traceable input for AI?](https://github.com/mkubicek/fedlex-parser)
 
 **Recent projects:**
 - [xTap](https://github.com/mkubicek/xtap) — client-side X/Twitter archiver
 - [conex](https://github.com/mkubicek/conex) — Confluence Cloud → LLM-ready markdown
 - [canon-cgiscsi](https://github.com/mkubicek/canon-cgiscsi) — clean-room Python client for Canon's cgiscsi document scanner protocol
-- [apron-sight](https://github.com/mkubicek/apron-sight) — visionOS, iPadOS and iOS app placing live air traffic in immersive space
 - [family-genome-protocol](https://github.com/mkubicek/family-genome-protocol) — local, deterministic protocol for extending consumer whole-genome reports for a family
 - [swiss-vehicle-stats](https://github.com/mkubicek/swiss-vehicle-stats) — analytics dashboard for Swiss vehicle registrations
 - [india-aviation-stats](https://github.com/mkubicek/india-aviation-stats) — Indian aviation analytics: GDP–flights correlation, passenger projections, and animated airport maps
+
+**Proof of concept**
+
+- [apron-sight](https://github.com/mkubicek/apron-sight) — unmaintained PoC for viewing live air traffic in immersive space on visionOS, iPadOS and iOS
 
 **📍 Zürich, Switzerland**
 
